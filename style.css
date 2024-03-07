@@ -5,3 +5,7 @@
 #about{
     background-color: floralwhite;
 }
+
+body{
+    position: relative;
+}
